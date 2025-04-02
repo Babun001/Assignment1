@@ -13,9 +13,6 @@ export default function Home() {
                 fontFamily: "Khand, Sans-serif"
             }}><h1>3 Tier Amenities & Facilities</h1></div>
         <div>< Navbar /></div>
-        <div className="body">
-
-        </div>
     </>
   );
 }
